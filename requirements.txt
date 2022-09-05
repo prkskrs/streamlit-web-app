@@ -5,3 +5,4 @@ streamlit-option-menu==0.3.2
 scikit-learn==1.1.2
 protobuf==3.20.1
 soupsieve==2.3.2.post1
+bs4==0.0.1
